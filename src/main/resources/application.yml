@@ -1,6 +1,6 @@
 spring:
   application:
-    name: yu-auto-reply
+    name: auto-reply
   # 支持 swagger3
   mvc:
     pathmatch:

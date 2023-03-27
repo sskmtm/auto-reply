@@ -19,4 +19,4 @@ ENV ZSXQ_GROUP_ID=你的星球id
 ENV ZSXQ_SILENCED=true
 
 # Run the web service on container startup.
-ENTRYPOINT ["java","-jar","/app/target/yu-auto-reply-0.0.1-SNAPSHOT.jar","--spring.profiles.active=prod"]
+ENTRYPOINT ["java","-jar","/app/target/auto-reply-0.0.1-SNAPSHOT.jar","--spring.profiles.active=prod"]
