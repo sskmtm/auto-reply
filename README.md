@@ -1,7 +1,5 @@
 # auto-reply 自动回复
 
-[toc]
-
 基于 Java Spring Boot 的平台监控及自动回复工具，支持灵活地配置多个监控任务，支持一键部署！
 
 演示视频：https://www.bilibili.com/video/BV1WX4y1o7aL
